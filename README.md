@@ -8,3 +8,9 @@ Curso Práctico de JavaScript - Platzi
 - Implementar estas fórmulas en JavaScript
 - Crear funciones
 - Integrar JavaScript con HTML
+
+## Taller Nro 2 - Porcentajes y descuentos
+- Definir las fórmulas
+- Implementar estas fórmulas en JavaScript
+- Crear Funciones
+- Integrar JavaScript con HTML
