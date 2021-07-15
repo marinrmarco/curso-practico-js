@@ -14,3 +14,9 @@ Curso Práctico de JavaScript - Platzi
 - Implementar estas fórmulas en JavaScript
 - Crear Funciones
 - Integrar JavaScript con HTML
+
+## Taller Nro 3 - Promedio Mediana y Moda
+- Definir las fórmulas
+- Implementar estas fórmulas en JavaScript
+- Crear Funciones
+- Integrar JavaScript con HTML
